@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+
+body {font-family: 'Montserrat', sans-serif; background-color:black; text-align:center; }
+
+
+h4{
+    font-size: 50pt;
+    color: white;
+    
+}
+
+h1{
+     font-size: 148pt;
+    background-color: white;
+    
+    
+}
+
+h2{
+     font-size: 163pt;
+    color: white;
+   
+}
+h3{
+    font-size: 36pt;
+   background-color: white;
+    
+}
+strong{
+     font-size: 45pt;
+    
+
+}
+p{
+     font-size: 44pt;
+    color: white;
+    
+}

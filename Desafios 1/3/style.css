@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap');
+
+body {font-family: 'Montserrat', sans-serif; background-color:#0a2ff1; text-align:center;
+margin: 0 auto;
+padding: 0; }
+
+div{
+    background-color: white;
+}
+h4{
+    font-size: 50pt;
+    color: #0a2ff1;
+    
+}
+
+h1{
+     font-size: 148pt;
+    background-color: black;
+    color: white;
+    
+    
+}
+
+h2{
+     font-size: 163pt;
+    color: black;
+   
+}
+h3{
+    font-size: 36pt;
+   color: #0a2ff1;
+    
+}
+strong{
+     font-size: 45pt;
+     color: #0a2ff1;
+    
+    
+
+}
+p{
+     font-size: 44pt;
+    color: #0a2ff1;
+    
+}
+span{
+    color: white;
+    background-color: black;
+    font-size: 45pt;
+}
