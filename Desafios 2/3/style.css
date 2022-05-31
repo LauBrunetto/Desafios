@@ -2,6 +2,7 @@
 
 body{
     margin: auto;
+    font-family: 'Source Sans 3', sans-serif;
 }
 main{
     text-align: center;
@@ -11,19 +12,16 @@ main{
     
 }
 h2{
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 38px;
     background-color: #04146c;
     color: white;
     margin: auto;
 }
 h1{
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 88px;
     color: #04146c;
 }
 h3{
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 26px;
     color: #04146c;
 
@@ -31,7 +29,6 @@ h3{
 
 
 p{
-    font-family: 'Source Sans 3', sans-serif;
     font-size: 24px;
     color: #04146c;
     background-color: #edf7ff;
